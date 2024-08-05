@@ -1,8 +1,7 @@
 # MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction
 This is the code for MPRE
 
-We will release the code once the extended paper is accepted.
-
+i.e., MPRE.ipynb
 
 ## Datasets
 
