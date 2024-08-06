@@ -7,7 +7,7 @@ Our paper:
 
 Conference version: Yu, Z., Wang, J., Luo, W., Tse, R., & Pau, G. (2023, December). MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction. In 2023 IEEE International Conference on Data Mining (ICDM) (pp. 758-767). IEEE. [Regular Paper, Acceptance rate = 94 / 1003]
 
-Journal version: Yu, Z., Wang, J., Luo, W., Tse, R., & Pau, G. (2023, December). Multi-Perspective Patient Representation Learning for Disease Prediction on Electronic Health Records. Knowledge and Information Systems. Springer. [Extended paper of ICDM23]
+Journal version: Yu, Z., Wang, J., Luo, W., Tse, R., & Pau, G. (2024, July). Multi-Perspective Patient Representation Learning for Disease Prediction on Electronic Health Records. Knowledge and Information Systems. Springer. [Extended paper of ICDM23]
 
 ## Datasets
 
