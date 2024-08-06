@@ -3,6 +3,9 @@ This is the code for MPRE
 
 i.e., MPRE.ipynb
 
+Our paper:
+Yu, Z., Wang, J., Luo, W., Tse, R., & Pau, G. (2023, December). MPRE: Multi-perspective Patient Representation Extractor for Disease Prediction. In 2023 IEEE International Conference on Data Mining (ICDM) (pp. 758-767). IEEE. [Regular Paper, Acceptance rate = 94 / 1003]
+
 ## Datasets
 
 D1: https://physionet.org/content/script-carpediem-dataset/1.1.0/ 
